@@ -1,0 +1,11 @@
+C:\Users\Никита\source\repos\CalculatorVersion2\CalculatorVersion2\bin\Debug\CalculatorVersion2.exe.config
+C:\Users\Никита\source\repos\CalculatorVersion2\CalculatorVersion2\bin\Debug\CalculatorVersion2.exe
+C:\Users\Никита\source\repos\CalculatorVersion2\CalculatorVersion2\bin\Debug\CalculatorVersion2.pdb
+C:\Users\Никита\source\repos\CalculatorVersion2\CalculatorVersion2\obj\Debug\CalculatorVersion2.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\CalculatorVersion2\CalculatorVersion2\obj\Debug\CalculatorVersion2.Form1.resources
+C:\Users\Никита\source\repos\CalculatorVersion2\CalculatorVersion2\obj\Debug\CalculatorVersion2.Properties.Resources.resources
+C:\Users\Никита\source\repos\CalculatorVersion2\CalculatorVersion2\obj\Debug\CalculatorVersion2.csproj.GenerateResource.cache
+C:\Users\Никита\source\repos\CalculatorVersion2\CalculatorVersion2\obj\Debug\CalculatorVersion2.exe
+C:\Users\Никита\source\repos\CalculatorVersion2\CalculatorVersion2\obj\Debug\CalculatorVersion2.pdb
+C:\Users\Никита\source\repos\CalculatorVersion2\CalculatorVersion2\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Никита\source\repos\CalculatorVersion2\CalculatorVersion2\obj\Debug\CalculatorVersion2.csproj.ResolveComReference.cache
